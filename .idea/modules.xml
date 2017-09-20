@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gethbasedata.iml" filepath="$PROJECT_DIR$/.idea/modules/gethbasedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gethbasedata-build.iml" filepath="$PROJECT_DIR$/.idea/modules/gethbasedata-build.iml" />
+    </modules>
+  </component>
+</project>
